@@ -8,7 +8,7 @@
 </span>
 
 <p align="center">
-  Heey! So good to see you here.
+  Veja como ficou!
 </p>
 
 
